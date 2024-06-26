@@ -189,7 +189,7 @@ export interface ProjectI{
 export const projects: Array<ProjectI> = [
     {
         id: "p001",
-        name: "Eagle Wear Shop",
+        name: "Clone Tweeter",
         img: "/img/proyects/tweeter-clone.png",
         web: "https://app-tweeter-front.vercel.app/auth/login",
         routes: {
