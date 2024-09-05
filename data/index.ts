@@ -191,7 +191,7 @@ export const projects: Array<ProjectI> = [
         id: "p001",
         name: "Tweeter NetWork",
         img: "/img/proyects/tweeter-clone.png",
-        web: "https://tweet-app-ashy.vercel.app/auth/login",
+        web: "https://tweet-app-ashy.vercel.app",
         routes: {
             repo_frontend: "https://github.com/AnGeL-19/tweet-app",
             repo_backend: "https://github.com/AnGeL-19/app-tweet-backend"
