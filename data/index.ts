@@ -189,11 +189,11 @@ export interface ProjectI{
 export const projects: Array<ProjectI> = [
     {
         id: "p001",
-        name: "Clone Tweeter",
+        name: "Tweeter NetWork",
         img: "/img/proyects/tweeter-clone.png",
-        web: "https://app-tweeter-front.vercel.app/auth/login",
+        web: "https://tweet-app-ashy.vercel.app/auth/login",
         routes: {
-            repo_frontend: "https://github.com/AnGeL-19/app-tweeter-front",
+            repo_frontend: "https://github.com/AnGeL-19/tweet-app",
             repo_backend: "https://github.com/AnGeL-19/app-tweet-backend"
         }
     },
