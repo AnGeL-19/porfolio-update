@@ -201,7 +201,7 @@ export const projects: Array<ProjectI> = [
         id: "p002",
         name: "Eagle Wear Shop",
         img: "/img/proyects/eagle-shop.png",
-        web: "https://e-wshop-kwe3.vercel.app/",
+        web: "https://e-wshop.vercel.app/",
         routes: {
             repo_frontend: "https://github.com/AnGeL-19/EWshop" 
         }
